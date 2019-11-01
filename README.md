@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/824736848/pipeline%20java/_apis/build/status/Eric87.pipelines-java?branchName=master)](https://dev.azure.com/824736848/pipeline%20java/_build/latest?definitionId=2&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
